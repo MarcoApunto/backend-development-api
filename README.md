@@ -7,6 +7,10 @@ Este repositorio es el resultado de un proyecto del curso *Backend Development a
 - **Base de datos con MongoDB y Mongoose**: Manejo de datos con MongoDB y Mongoose.
 - **Perfiles de usuario**: Funcionalidades avanzadas con validación de datos para los perfiles de usuario.
 
+## Certificado
+
+![img](./certification/course_grade.jpg)
+
 ## Sobre el curso
 
 Este proyecto forma parte del programa especializado **MERN Stack Front To Back: Full Stack React, Redux & Node.js** en Coursera. A través de este programa, se abordan temas como la creación de aplicaciones full-stack con el stack MERN, implementación de autenticación segura con JWT, desarrollo de interfaces reactivas con React y gestión del estado con Redux.
