@@ -11,7 +11,7 @@ const app = express()
 // Middleware
 app.use(express.json())
 // Middleware para urlencoded
-app.use(express.urlencoded({ extended: true }))
+app.use(express.urlencoded({ extended: false }))
 
 // DB Config
 const db = require('./config/keys').mongoURI
