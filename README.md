@@ -1,6 +1,6 @@
 # Backend Development and API Creation
 
-Este repositorio es el resultado de un proyecto del curso *Backend Development and API Creation* en **Coursera**. El backend está construido con Node.js, Express y MongoDB, cubriendo los siguientes aspectos:
+Este repositorio es el resultado de un proyecto del curso <a href="https://www.coursera.org/learn/packt-backend-development-and-api-creation-w2u4y" target="_blank">*Backend Development and API Creation*</a> en **Coursera**. El backend está construido con Node.js, Express y MongoDB, cubriendo los siguientes aspectos:
 
 - **Configuración del servidor**: Servidor optimizado para la gestión de la aplicación.
 - **Autenticación JWT**: Implementación de JWT para proteger las rutas de la API.
